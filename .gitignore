@@ -23,4 +23,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # specific env
-Midwest/frontend/.env
+frontend/.env
